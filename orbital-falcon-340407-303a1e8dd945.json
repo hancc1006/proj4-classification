@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "orbital-falcon-340407",
+  "private_key_id": "303a1e8dd945db1ca42acc38edc1116476a4c70f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrBq8gNrJ6vAHM\nOcInWjSVaopVkgmCC1EFFT7RhS1+8VrysCUNyQDlgPKCfeEgOXuoMTLBPP5Tx+fH\nJKwaOW7Wp6QO64wA7ecGHbkxO4lCupAXlW8E2AVIOn/3scuKIsHJJzGPEKM/5+58\nxMSjBdmNlIlpLXQ913jf//xCr+PKZ6L3dtNodrxZn1wskBZinIou4KR04xF3subq\nQoMX6Z9dbTj7MzqSrfu2JpA1/lOMBGG3t/APrrCINvqYsB1Dc/73fBP9YWHbX/s6\nOW1ve16UlxV/pLXe8rdo5m7EE3IVwnYWEeKTBRRIUB2rzfXRI9hZQ0O+hj3aCYSC\nuLxK6ZFRAgMBAAECggEAEMeLukl/hpDoTL8MdFOydcfhiV51+hkt4mWol4IdWfdo\nVMfxJLp4MOwvLtwWkLSvFAv6prCbI8Fo1TYdAAgrPpptO00DHAq7SDN1mlXU5FP9\nQ+EUhrlCgGkD6dt65KM/F8MVhsurNp+E258rCzMNWomMl0H/Rft8V57MA0dyPgb2\nmvuMqz1R41WxjDIa/05QPSnepOMaSIVNL97ISdmZ9xx/VMSeEcx0+h1rpu7ILqb3\nH9BEPPUi2LfgrpobKieq8FG3tpln2Cy/B0VSRsmlc9PZoo+Uz9YbWiOBLfG6Zft7\nYJ/WBy9tDrAkr/hlZEsuRebuSIWvHFk877m/3OKamQKBgQDdn5rVE6ikvliU3Nh2\nXY1hmZJg/8son5o7TIIP2rKkadWbvWQf83T15VKSgI1z3TisyFlWZf3CXFkNlh+1\nB5gCL3r0pw3RZTHgIj3VuLKcpQdH75caQFs/FKpoLvqqS1Ed9XEqfiP92Yjo+KN2\ntOIjPHdlUPxYUS+RC701xks7WQKBgQDFjeu5V3zrx6p/bm2ErlES9IHJI1rmZ9O5\nUgQ6OFEpE+SY4E65ids+k/D//S2+FlYk/aWyQQy0bT4lScKd+4QxiRjGlDAaIsGC\ndyjVpUJUmOOjXP4rh/DPejfIZQ4EWD7gHQk5os235Pu8Un5x9tLRQ0TEYFn9a/jj\n5NeemaleuQKBgFbxPB6HHcuzWLDdipW00bgONRyUfLCtHCZTN1rc4uQZGNGGFPdr\n3OByXFhY0iU4DfnKhzGbxVcwP0dTM5EjL4D7+3Jq7sLMvio9hKCJWpiVLSwNU+va\nf3FZvBgvBes0rNfh58lRvvDhHBK5J/dzsps8J2K5yKUlBFIUlt+3sN/RAoGBAMNL\nKDOCBHFFYgw1izi15lnZso+3Tr4k983lAV7Ym4sDKmHipJCQclergnxduaGHjUNm\nKC5OVhPrRpswDp+Eq8sYX5C3n9HGeAvUZl7Fzwu4VJkDbhR0f59rj8ef9rpezlFZ\nAuyiP8HCMQWbe3qH6SKL4GhNY8i9uz721BzqhN+pAoGAcGtJ2PrqOmH1Mh39Da6B\nbIoWXdD0MIO5A3DHecgjCG2B8Ybp0BIMC1f8avu4rC26Ivmzcc7l7eAze8lYJAOl\nQrGC4mvlSsntHqERBBaPMK5h3UomHPkmsTW1NYcK28GOpu+brpa306vRlxezII/l\nRZ75xRmRnC4mH11KMWEyx/k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-jupyternotebook@orbital-falcon-340407.iam.gserviceaccount.com",
+  "client_id": "104866372267455379538",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-jupyternotebook%40orbital-falcon-340407.iam.gserviceaccount.com"
+}
